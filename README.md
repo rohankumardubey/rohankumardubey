@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me 
-I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Java, C++, Javascript. I love Linux Kernel-based OSs such as Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS.I'm an open-source enthusiast and contributor.
+I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Java, C++, PHP. I love Linux Kernel-based OSs such as Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS.I'm an open-source enthusiast and contributor.
 
 ### Here is what I am working on 👋
 - 🔭 I’m currently working on ... Python, Shell Script, Java, Sql
@@ -66,9 +66,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-
-
-
 
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{rohankumardubey}/count.svg)
