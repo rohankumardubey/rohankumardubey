@@ -2,7 +2,7 @@
 
 ## About me 
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Java, Scala, C++, PHP. I love Linux Kernel-based OSs such as Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS.I'm an open-source enthusiast and contributor.
-<br>
+<\br>
 ### Here is what I am working on 👋
 - 🔭 I’m currently working on ... Python, Shell Script, Java, Sql
 - 🌱 I’m currently learning ... Scala,Java Web applications,JavaFX,Rust ,JavaScript,Go
