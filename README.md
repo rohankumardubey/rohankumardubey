@@ -2,7 +2,7 @@
 
 ## About me 
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Java, Scala, C++, PHP. I love Linux Kernel-based OSs such as Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS.I'm an open-source enthusiast and contributor.
-<\br>
+
 ### Here is what I am working on 👋
 - 🔭 I’m currently working on ... Python, Shell Script, Java, Sql
 - 🌱 I’m currently learning ... Scala,Java Web applications,JavaFX,Rust ,JavaScript,Go
@@ -11,7 +11,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 📫 My second account : https://github.com/rohankumar997
 - 📫 My Portfolio : https://rohankumardubey.github.io/
 - ⚡ Fun fact: ... The Best is yet to come..!
-<br>
+
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
@@ -60,18 +60,18 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<br>
+
 ## social media handles
 [![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
 [![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
 [![Mail](https://img.shields.io/badge/-rohankumardubey497@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohankumardubey497@gmail.com)
-<br>
+
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{rohankumardubey}/count.svg)
-<br>
-### Rohan's Interesting stats
+
+### Rohan's stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankumardubey&show_icons=true&theme=radical&count_private=true&icon_color=439975&text_color=6e6e6e)
 <a href="https://github.com/rohankumardubey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumardubey&langs_count=10&theme=dark&layout=compact" />
 </a>
-<br>
+
