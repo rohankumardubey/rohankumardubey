@@ -12,12 +12,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 📫 My Portfolio : https://rohankumardubey.github.io/
 - ⚡ Fun fact: ... The Best is yet to come..!
 
-
-# To Reach Me
-[![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
-[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
-[![Mail](https://img.shields.io/badge/-rohankumardubey497@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohankumardubey497@gmail.com)
-
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
@@ -66,6 +60,11 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+
+# To Contact Me
+[![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
+[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
+[![Mail](https://img.shields.io/badge/-rohankumardubey497@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohankumardubey497@gmail.com)
 
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{rohankumardubey}/count.svg)
