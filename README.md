@@ -71,7 +71,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ### Rohan's stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankumardubey&show_icons=true&theme=radical)
-
 <a href="https://github.com/rohankumardubey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumardubey&langs_count=10&theme=dark&layout=compact" />
 </a>
