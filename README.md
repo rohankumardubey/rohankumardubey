@@ -1,16 +1,20 @@
-### Hi there 👋
 
-## About me 
+Hi 👋 My name is Rohan
+======================
+
+Data Engineer and Backend Engineer
+----------------------------------
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Scala, C++, java, PHP. I love Linux Kernel-based OSs Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS.I'm an open-source enthusiast and contributor.
 
 ### Here is what I am working on 👋
+- 🌍  I'm based in India
 - 🔭 I’m currently working on ... Python, Shell Script, Java, Sql
 - 🌱 I’m currently learning ... Scala,Java Web applications,JavaFX,Rust ,JavaScript,Go
 - 👯 I’m looking to collaborate on ... Rust,Go,C++
 - 📫 How to reach me ... rohan.rohankumar.kumar51@gmail.com (or) rohankumardubey497@gmail.com
 - 📫 My second account : https://github.com/rohankumar997
 - 📫 My Portfolio : https://rohankumardubey.github.io/
-- ⚡ Fun fact: ... The Best is yet to come..!
+- ⚡ Fun fact: I'm secretly Spiderman ... but don't tell anyone
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -69,10 +73,9 @@ I'm a software development engineer. Interested in Solving problems faced during
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{rohankumardubey}/count.svg)
 
-### Rohan's stats
+### Badges
 | <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankumardubey&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rohan's github stats" /></a> | <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumardubey&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
-### Badges
 
 <b>My GitHub Stats</b>
 
