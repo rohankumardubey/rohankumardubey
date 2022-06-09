@@ -4,7 +4,7 @@ Hi 👋 My name is Rohan
 
 Data Engineer and Backend Engineer
 ----------------------------------
-I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Scala, C++, java, PHP. I love Linux Kernel-based OSs Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS. I'm an open-source enthusiast and contributor.
+I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Scala, C++, java, PHP. I love Linux Kernel-based OSs Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS. I'm an open-source enthusiast and newbie contributor.
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in India
