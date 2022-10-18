@@ -8,7 +8,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ### Here is what I am working on 👋
 - 🌍 I'm based out of India
-- 🔭 I’m currently working on : Python, Shell Script, Java, Spring, SQL, Distributed processing frameworks Spark
+- 🔭 I’m currently working on : Python, Java, Spring, SQL, Shell Script, Distributed processing frameworks (Spark) , distributed SQL query (engine Presto , Trino).
 - 🌱 I’m currently learning : Scala, Rust, JavaScript, Go
 - 👯 I’m looking to collaborate on : Rust, Go, C++, 
 - 📫 How to reach me : rohan.rohankumar.kumar51@gmail.com (or) rohankumardubey497@gmail.com
