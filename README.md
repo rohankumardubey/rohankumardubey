@@ -7,14 +7,14 @@ Data Engineer and Backend Engineer
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Python, Scala, C++, java, PHP. I love Linux Kernel-based OSs Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS. I'm an open-source enthusiast and newbie contributor.
 
 ### Here is what I am working on 👋
-- 🌍 I'm based in India
-- 🔭 I’m currently working on : Python, Shell Script, Java, Spring, SQL
-- 🌱 I’m currently learning : Scala, Java Web applications, JavaFX, Rust, JavaScript, Go
-- 👯 I’m looking to collaborate on : Rust, Go, C++
+- 🌍 I'm based out of India
+- 🔭 I’m currently working on : Python, Shell Script, Java, Spring, SQL, Distributed processing frameworks Spark
+- 🌱 I’m currently learning : Scala, Rust, JavaScript, Go
+- 👯 I’m looking to collaborate on : Rust, Go, C++, 
 - 📫 How to reach me : rohan.rohankumar.kumar51@gmail.com (or) rohankumardubey497@gmail.com
 - 📫 My second account : https://github.com/rohankumar997
 - 📫 My Portfolio : https://rohankumardubey.github.io/
-- ⚡ Fun fact : I'm secretly Spiderman ... but don't tell anyone
+- ⚡ Fun fact : I'm Spiderman ... but don't tell anyone
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
