@@ -8,7 +8,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ### Here is what I am working on 👋
 - 🌍 I'm based out of India
-- 🔭 I’m currently working on : Python, Java, Scala, SQL, Shell Script, Spring Boot, Distributed processing frameworks (Apache Spark) , distributed SQL query engine (Presto , Trino).
+- 🔭 I’m currently working on : Python, Java, Scala, SQL, Shell Script, Spring Boot, Distributed processing frameworks (Apache Spark) , distributed SQL query engines (Presto, Trino, Dremio), ELT integration platform (AirByte) , real-time analytics database (Druid) , distributed MPP query layer (Drill) & near real time distributed data store (Apache Pinot) .
 - 🌱 I’m currently learning : Rust, Go, JavaScript.
 - 👯 I’m looking to collaborate on : Rust, Go, C++.
 - 📫 How to reach me : rohan.rohankumar.kumar51@gmail.com (or) rohankumardubey497@gmail.com
