@@ -12,8 +12,8 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 🌱 I’m currently learning : Scala, Go, Rust.
 - 👯 I’m looking to collaborate on : Java, Scala, Python, Go, Rust, C++.
 - 📫 How to reach me : rohankumardubey497@gmail.com (or)  rohan.rohankumar.kumar51@gmail.com 
-- 📫 My second account : https://github.com/rohankumar997
 - 📫 My Portfolio : https://rohankumardubey.github.io/
+- 📫 My second Github account : https://github.com/rohankumar997
 - ⚡ Fun fact : I'm Iron Man ... but don't tell anyone.
 
 ## Stack and Tools I work with
