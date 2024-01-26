@@ -81,4 +81,4 @@ I'm a software development engineer. Interested in Solving problems faced during
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohankumardubey)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/rohankumardubey"><img src="https://activity-graph.herokuapp.com/graph?username=rohankumardubey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Rohans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohankumardubey&custom_title=This%20is%20a%20My%20Activity%20Graph&hide_border=true)](https://github.com/rohankumardubey/github-readme-activity-graph)
