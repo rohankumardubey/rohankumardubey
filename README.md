@@ -78,6 +78,9 @@ I'm a software development engineer. Interested in Solving problems faced during
 | ------------- | ------------- |
 
 
+| <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://streak-stats.demolab.com/?user=rohankumardubey" alt="Rohan's github stats" /></a> |
+| ------------- | ------------- |
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohankumardubey)](https://git.io/streak-stats)
 
 
