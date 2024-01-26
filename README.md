@@ -78,7 +78,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 | ------------- | ------------- |
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rohankumardubey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankumardubey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rohankumardubey)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/rohankumardubey"><img src="https://activity-graph.herokuapp.com/graph?username=rohankumardubey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
