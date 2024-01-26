@@ -39,7 +39,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/pycharm.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/fluent/344/visual-studio-2019.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/teradata.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
