@@ -77,8 +77,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 | <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankumardubey&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rohan's github stats" /></a> | <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumardubey&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
-<b>My GitHub Stats</b>
-<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohankumardubey)](https://git.io/streak-stats)
 
 
