@@ -39,7 +39,6 @@ I'm a software development engineer. Interested in Solving problems faced while 
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/pycharm.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://en.wikipedia.org/wiki/Sublime_Text#/media/File:Sublime_Text_3_logo.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/UltraEditLogo.png"></code>
