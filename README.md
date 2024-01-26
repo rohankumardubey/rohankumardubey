@@ -81,7 +81,5 @@ I'm a software development engineer. Interested in Solving problems faced during
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohankumardubey)](https://git.io/streak-stats)
 
-<br>
-<br>
 
 [![Rohans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohankumardubey&theme=github-compact&bg_color=000000&color=00FF00&line=ff0000&point=FFFF00&area=true&hide_border=true)](https://github.com/rohankumardubey/github-readme-activity-graph)
