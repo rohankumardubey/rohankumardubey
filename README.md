@@ -64,7 +64,6 @@ I'm a software development engineer. Interested in Solving problems faced while 
 [![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
 [![Mail](https://img.shields.io/badge/-rohankumardubey497@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohankumardubey497@gmail.com)
 
-## Profile Stats
 
 ### Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{rohankumardubey}/count.svg)
