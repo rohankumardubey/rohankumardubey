@@ -1,15 +1,14 @@
 Hey there 👋 My name is Rohan 
 =============================
-I am a Software Development Engineer with a strong interest in solving complex challenges associated with integrating large-scale distributed systems, particularly through asynchronous and concurrent programming. My focus areas include designing low-latency architectures and building robust real-time data streaming and processing solutions. I have extensive hands-on experience with Java, Python, Go, Rust, Scala, and C++. Additionally, I am passionate about open-source technologies and actively contribute to the community.
+I am a Software Development Engineer passionate about tackling the complexities of large-scale distributed systems, with a special focus on asynchronous and concurrent programming. I specialise in architecting low-latency solutions and building resilient real-time data streaming platforms. My expertise spans Java, Go, Rust, Python, Scala, and C++, and I thrive on leveraging these technologies to deliver high-performance systems. I am also an enthusiastic supporter of open-source innovation and actively contribute to the tech community.
 
 ### Here is what I am working on 👋
 - 🌍 I'm based out of India
 - 🔭 I work with distributed batch and real-time processing frameworks (Spark, Flink), distributed SQL engines (Presto, Trino, Dremio), ELT platforms (Airbyte), and real-time analytics databases (Druid, Drill, Pinot).
-- 🌱 I’m currently learning: Scala, Go, Rust.
-- 👯 I’m looking to collaborate on: Java, Scala, Python, Go, Rust, and C++.
-- 📫 How to reach me : rohankumardubey497@gmail.com (or)  rohan.rohankumar.kumar51@gmail.com 
+- 🌱 I’m currently learning: Go, Rust and Scala.
+- 👯 I’m looking to collaborate on: Java, Go, Rust, Python, Scala and C++.
+- 📫 How to reach me: rohankumardubey497@gmail.com
 - 📫 My Portfolio Page: https://rohankumardubey.github.io/
-- 📫 My second Github account: https://github.com/rohankumar997
 - ⚡ Fun fact: I'm Iron Man ⎊.
 - ⚡ About me: “Hear ye, hear ye! Presenting Ser Ro’han, First of His Name, Breaker of Boredom, Bringer of Wit and Wonder!”
 
