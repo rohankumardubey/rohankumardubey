@@ -9,7 +9,7 @@ I am a Software Development Engineer passionate about tackling the complexities 
 - 👯 I’m looking to collaborate on: Java, Go, Rust, Python, Scala and C++.
 - 📫 How to reach me: rohankumardubey497@gmail.com
 - 📫 My Portfolio Page: https://rohankumardubey.github.io/
-- ⚡ Fun fact: I'm Iron Man ⎊.
+- ⚡ Fun fact: I'm Iron Man ⎊
 - ⚡ About me: “Hear ye, hear ye! Presenting Ser Ro’han, First of His Name, Breaker of Boredom, Bringer of Wit and Wonder!”
 
 
