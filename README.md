@@ -17,9 +17,9 @@ I am a Software Development Engineer with a strong interest in solving complex c
 ## Stack and Tools I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
