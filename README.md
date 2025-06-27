@@ -1,16 +1,18 @@
-Hey There 👋 My name is Rohan
+Hey there 👋 My name is Rohan 
 =============================
-I am a Software Development Engineer with a strong interest in solving complex challenges associated with integrating large-scale distributed systems, particularly through asynchronous and concurrent programming. My focus areas include designing low-latency architectures and building robust real-time data streaming and processing solutions. I have extensive hands-on experience with Java, Python, Scala, C++, Go, and Rust. Additionally, I am passionate about open-source technologies and actively contribute to the community.
+I am a Software Development Engineer with a strong interest in solving complex challenges associated with integrating large-scale distributed systems, particularly through asynchronous and concurrent programming. My focus areas include designing low-latency architectures and building robust real-time data streaming and processing solutions. I have extensive hands-on experience with Java, Python, Go, Rust, Scala, and C++. Additionally, I am passionate about open-source technologies and actively contribute to the community.
 
 ### Here is what I am working on 👋
 - 🌍 I'm based out of India
-- 🔭 I’m currently working on Distributed Batch processing frameworks (Apache Spark), Real-time stream processing framework (Apache Flink), distributed SQL query engines (Presto, Trino, Dremio), ELT integration platform (AirByte), real-time analytics database (Druid), distributed MPP query layer (Drill) & near real-time distributed data store (Apache Pinot).
+- 🔭 I work with distributed batch and real-time processing frameworks (Spark, Flink), distributed SQL engines (Presto, Trino, Dremio), ELT platforms (Airbyte), and real-time analytics databases (Druid, Drill, Pinot).
 - 🌱 I’m currently learning: Scala, Go, Rust.
 - 👯 I’m looking to collaborate on: Java, Scala, Python, Go, Rust, and C++.
 - 📫 How to reach me : rohankumardubey497@gmail.com (or)  rohan.rohankumar.kumar51@gmail.com 
 - 📫 My Portfolio Page: https://rohankumardubey.github.io/
 - 📫 My second Github account: https://github.com/rohankumar997
 - ⚡ Fun fact: I'm Iron Man ⎊.
+- ⚡ About me: “Hear ye, hear ye! Presenting Ser Ro’han, First of His Name, Breaker of Boredom, Bringer of Wit and Wonder!”
+
 
 ## Stack and Tools I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
