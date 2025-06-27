@@ -13,7 +13,7 @@ I am a Software Development Engineer passionate about tackling the complexities 
 - ⚡ About me: “Hear ye, hear ye! Presenting Ser Ro’han, First of His Name, Breaker of Boredom, Bringer of Wit and Wonder!”
 
 
-## Stack and Tools I work with
+## Stack and Tools I work with 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
