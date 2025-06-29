@@ -73,7 +73,6 @@ I am a Software Development Engineer passionate about tackling the complexities 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 <!-- MISC -->
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
