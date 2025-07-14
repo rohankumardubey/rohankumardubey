@@ -44,6 +44,7 @@ I am a Software Development Engineer passionate about tackling the complexities 
 ![Apache Hudi](https://img.shields.io/badge/Hudi-5C2D91?style=flat-square)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FFCA28?style=flat-square&logo=apachehive&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
 <!-- Distributed Streaming/Batch Processing -->
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
