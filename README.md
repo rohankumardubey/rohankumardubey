@@ -12,7 +12,6 @@ I am a Software Development Engineer passionate about tackling the complexities 
 - ⚡ Fun fact: I'm Iron Man ⎊
 - ⚡ About me: “Hear ye, hear ye! Presenting Ser Ro’han, First of His Name, Breaker of Boredom, Bringer of Wit and Wonder!”
 
-
 ## Stack and Tools I work with 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
