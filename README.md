@@ -15,7 +15,7 @@ I specialize in **asynchronous and concurrent programming, low-latency architect
 I have hands-on experience with **Rust, Java, Python, Go, Scala, and C++**, and I actively explore system design, **performance optimization**, and **distributed data platforms**.
 Passionate about **open-source and contributing to the distributed systems ecosystem**.
 
-💡 Tech stack: **Rust, Go, Java, Python, Scala, C++**  
+💡 **Tech stack**: **Java, Python, Go, Rust, Scala, C++**  
 🌍 **Open-source enthusiast & system design explorer.**
 
 ---
