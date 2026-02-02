@@ -12,7 +12,7 @@
 **Distributed Systems Engineer/ Data Engineer** focused on designing and building **scalable, fault-tolerant, and high-performance distributed systems.**
 I specialize in **asynchronous and concurrent programming, low-latency architectures, and real-time data streaming and processing**.
 
-I have hands-on experience with **Rust, Java, Python, Go, Scala, and C++**, and I actively explore system design, **performance optimization**, and **distributed data platforms**.
+I have hands-on experience with **Java, Python, Go, Rust, Scala, and C++**, and I actively explore system design, **performance optimization**, and **distributed data platforms**.
 Passionate about **open-source and contributing to the distributed systems ecosystem**.
 
 💡 **Tech stack**: **Java, Python, Go, Rust, Scala, C++**  
