@@ -1,4 +1,4 @@
-# ⚡ Distributed Systems / Big Data Engineer / Data Platform Engineer
+# ⚡ Distributed Systems / Big Data Engineer / Data Platform
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Distributed+Systems+Engineer;Data+Engineer;Building+Scalable+%26+Fault-Tolerant+Systems;Real-Time+Streaming+%7C+Concurrency+%7C+Low-Latency+Architecture;Java+%7C+Python+%7C+Rust+%7C+Go+%7C+Scala+%7C+C%2B%2B" />
