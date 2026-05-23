@@ -37,7 +37,7 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="[https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,perl)" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,perl" height="170"/>
 </p>
 
 ---
