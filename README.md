@@ -1,4 +1,4 @@
-# ⚡ Distributed Systems Engineer/Data Engineer
+# ⚡ Distributed Systems / Big Data Engineer / Data Platform Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Distributed+Systems+Engineer;Data+Engineer;Building+Scalable+%26+Fault-Tolerant+Systems;Real-Time+Streaming+%7C+Concurrency+%7C+Low-Latency+Architecture;Java+%7C+Python+%7C+Rust+%7C+Go+%7C+Scala+%7C+C%2B%2B" />
@@ -9,7 +9,7 @@
 
 ## 🌐 Building Systems, One Node at a Time — I'm Rohan
 
-**Distributed Systems Engineer/ Data Engineer** focused on designing and building **scalable, fault-tolerant, and high-performance distributed systems.**
+**"Distributed Systems Engineer/ Big Data Engineer/ Data Platform Engineer"** focused on designing and building **scalable, fault-tolerant, and high-performance distributed systems.**
 I specialize in **asynchronous and concurrent programming, low-latency architectures, and real-time data streaming and processing**.
 
 I have hands-on experience with **Java, Python, Go, Rust, Scala, and C++**, and I actively explore system design, **performance optimization**, and **distributed data platforms**.
