@@ -36,8 +36,8 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,perl" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohankumardubey&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohankumardubey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,perl" height="170"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rohan-flutterint&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rohankumardubey&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,8 +53,8 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/rohan-flutterint">
-    <img src="https://img.shields.io/github/followers/rohan-flutterint?label=Follow&style=for-the-badge&logo=github" />
+  <a href="https://github.com/rohankumardubey">
+    <img src="https://img.shields.io/github/followers/rohankumardubey?label=Follow&style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/">
     <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Kumar%20Dubey-blue?style=for-the-badge&logo=linkedin" />
@@ -69,6 +69,6 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-flutterint&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankumardubey&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
