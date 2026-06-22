@@ -37,7 +37,7 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohankumardubey&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohankumardubey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,perl" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumardubey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,perl&size_weight=0&count_weight=1" height="170"/>
 </p>
 
 ---
@@ -71,4 +71,3 @@ Passionate about **open-source and contributing to the distributed systems ecosy
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankumardubey&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
