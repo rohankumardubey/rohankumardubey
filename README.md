@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Building Systems, One Node at a Time — I'm Rohan
+## 🌐 Building Systems, One Node at a Time , I'm Rohan
 
 **"Distributed Systems Engineer/ Big Data Engineer/ Data Platform Engineer"** focused on designing and building **scalable, fault-tolerant, and high-performance distributed systems.**
 I specialize in **asynchronous and concurrent programming, low-latency architectures, and real-time data streaming and processing**.
