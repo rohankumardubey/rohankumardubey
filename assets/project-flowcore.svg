@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+  <title id="title">FlowCore</title><desc id="desc">A lightweight Rust stream-processing engine with event time, watermarks, and checkpoints.</desc>
+  <defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34D399"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs>
+  <rect x="1" y="1" width="558" height="188" rx="18" fill="#0B1220" stroke="#263449" stroke-width="2"/>
+  <rect x="1" y="1" width="7" height="188" rx="4" fill="url(#edge)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="32" y="47" fill="#F8FAFC" font-size="25" font-weight="700">FlowCore</text>
+    <rect x="441" y="24" width="85" height="30" rx="15" fill="#10241F" stroke="#047857"/>
+    <text x="483" y="44" fill="#6EE7B7" font-size="12" text-anchor="middle">RUST</text>
+    <text x="32" y="91" fill="#CBD5E1" font-size="16">A lightweight real time stream processor with</text>
+    <text x="32" y="116" fill="#CBD5E1" font-size="16">event time, watermarks, state, and checkpoints.</text>
+    <text x="32" y="160" fill="#6EE7B7" font-size="12" letter-spacing="1.5">STREAMING SEMANTICS  /  RECOVERY</text>
+    <text x="524" y="160" fill="#64748B" font-size="18" text-anchor="end">↗</text>
+  </g>
+</svg>

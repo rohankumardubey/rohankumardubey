@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+  <title id="title">DataWizz</title><desc id="desc">A local-first data platform for ingestion, exploration, publishing, notebooks, and dashboards.</desc>
+  <defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBBF24"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+  <rect x="1" y="1" width="558" height="188" rx="18" fill="#0B1220" stroke="#263449" stroke-width="2"/>
+  <rect x="1" y="1" width="7" height="188" rx="4" fill="url(#edge)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="32" y="47" fill="#F8FAFC" font-size="25" font-weight="700">DataWizz</text>
+    <rect x="405" y="24" width="121" height="30" rx="15" fill="#291D18" stroke="#B45309"/>
+    <text x="466" y="44" fill="#FCD34D" font-size="12" text-anchor="middle">TYPESCRIPT</text>
+    <text x="32" y="91" fill="#CBD5E1" font-size="16">A local first workspace for lakehouse data,</text>
+    <text x="32" y="116" fill="#CBD5E1" font-size="16">SQL exploration, notebooks, and dashboards.</text>
+    <text x="32" y="160" fill="#FCD34D" font-size="12" letter-spacing="1.5">LAKEHOUSE  /  MULTI ENGINE ANALYTICS</text>
+    <text x="524" y="160" fill="#64748B" font-size="18" text-anchor="end">↗</text>
+  </g>
+</svg>

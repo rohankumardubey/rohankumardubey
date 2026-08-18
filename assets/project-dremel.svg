@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+  <title id="title">Dremel</title><desc id="desc">Two columnar SQL engines in Rust and C++.</desc>
+  <defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <rect x="1" y="1" width="558" height="188" rx="18" fill="#0B1220" stroke="#263449" stroke-width="2"/>
+  <rect x="1" y="1" width="7" height="188" rx="4" fill="url(#edge)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="32" y="47" fill="#F8FAFC" font-size="25" font-weight="700">Dremel</text>
+    <rect x="424" y="24" width="102" height="30" rx="15" fill="#201B31" stroke="#6D4FC2"/>
+    <text x="475" y="44" fill="#C4B5FD" font-size="12" text-anchor="middle">RUST + C++</text>
+    <text x="32" y="91" fill="#CBD5E1" font-size="16">Two small columnar SQL engines, built to</text>
+    <text x="32" y="116" fill="#CBD5E1" font-size="16">answer the same queries over the same bytes.</text>
+    <text x="32" y="160" fill="#67E8F9" font-size="12" letter-spacing="1.5">COLUMNAR EXECUTION  /  ENGINE COMPARISON</text>
+    <text x="524" y="160" fill="#64748B" font-size="18" text-anchor="end">↗</text>
+  </g>
+</svg>
