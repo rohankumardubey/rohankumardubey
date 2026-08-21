@@ -10,7 +10,7 @@
 
 ## `whoami`
 
-I'm **Rohan Dubey**, a Staff Data Engineer. I work where distributed systems, real time data, and performance engineering meet. I turn difficult infrastructure problems into platforms that are fast, resilient, and pleasant to operate.
+I'm **Rohan Dubey**, a Staff Data Engineer & Staff Platform Engineer. I work where distributed systems, real time data, and performance engineering meet. I turn difficult infrastructure problems into platforms that are fast, resilient, and pleasant to operate.
 
 I am especially interested in **stream processing semantics**, **columnar query execution**, **data intensive systems**, and using **Rust, Go, Java, and Python** to explore the tradeoffs behind them.
 
