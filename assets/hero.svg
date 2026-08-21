@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Rohan Dubey, Staff Data Engineer & Staff Platform Engineer</title>
+  <title id="title">Rohan Dubey, Staff Data Engineer &amp; Staff Platform Engineer</title>
   <desc id="desc">A dark systems-console banner showing Rohan's focus on distributed systems, real-time data, and high-performance engines.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -39,7 +39,8 @@
 
       <text x="58" y="146" fill="#F8FAFC" font-size="64" font-weight="750" letter-spacing="2">ROHAN DUBEY</text>
       <rect x="59" y="171" width="270" height="6" rx="3" fill="url(#accent)"/>
-      <text x="58" y="223" fill="#CBD5E1" font-size="23" letter-spacing="4">STAFF DATA ENGINEER & STAFF PLATFORM ENGINEER</text>
+      <text x="58" y="215" fill="#CBD5E1" font-size="20" letter-spacing="3">STAFF DATA ENGINEER</text>
+      <text x="58" y="247" fill="#CBD5E1" font-size="20" letter-spacing="3">&amp; STAFF PLATFORM ENGINEER</text>
 
       <text x="58" y="280" fill="#94A3B8" font-size="22">I turn distributed chaos into</text>
       <text x="58" y="314" fill="#E2E8F0" font-size="22" font-weight="700">systems that scale.</text>
