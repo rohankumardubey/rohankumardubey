@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Rohan Dubey, Staff Data Engineer building distributed systems, real time data platforms, and high performance engines" width="100%" />
+  <img src="./assets/hero.svg" alt="Rohan Dubey, Staff Data Engineer & Staff Platform Engineer building distributed systems, real time data platforms, and high performance engines" width="100%" />
 </p>
 
 <p align="center">
