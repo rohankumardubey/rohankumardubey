@@ -39,8 +39,7 @@
 
       <text x="58" y="146" fill="#F8FAFC" font-size="64" font-weight="750" letter-spacing="2">ROHAN DUBEY</text>
       <rect x="59" y="171" width="270" height="6" rx="3" fill="url(#accent)"/>
-      <text x="58" y="215" fill="#CBD5E1" font-size="20" letter-spacing="3">STAFF DATA ENGINEER</text>
-      <text x="58" y="247" fill="#CBD5E1" font-size="20" letter-spacing="3">&amp; STAFF PLATFORM ENGINEER</text>
+      <text x="58" y="225" fill="#CBD5E1" font-size="17" letter-spacing="2">STAFF DATA ENGINEER &amp; STAFF PLATFORM ENGINEER</text>
 
       <text x="58" y="280" fill="#94A3B8" font-size="22">I turn distributed chaos into</text>
       <text x="58" y="314" fill="#E2E8F0" font-size="22" font-weight="700">systems that scale.</text>
