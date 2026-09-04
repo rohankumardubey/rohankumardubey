@@ -31,7 +31,7 @@ I am especially interested in **stream processing semantics**, **columnar query 
 
 | Area | What I care about |
 | --- | --- |
-| **Streaming systems** | Event time, watermarks, state, backpressure, checkpoints, and recovery |
+| **Streaming systems** | Event time, watermarks, backpressure, checkpoints, and recovery |
 | **Query engines** | Columnar formats, vectorized execution, memory layout, and benchmarking |
 | **Distributed data** | Partitioning, consistency, fault tolerance, lakehouse architecture, and observability |
 | **Platform engineering** | Kubernetes native workloads, infrastructure as code, automation, and developer experience |
