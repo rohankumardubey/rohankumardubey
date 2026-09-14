@@ -8,7 +8,7 @@
   <a href="mailto:rohankumardubey497@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=F472B6" alt="Email Rohan" /></a>
 </p>
 
-## `whoami`
+## `whoami` 
 
 I'm **Rohan Dubey**, Staff Data Engineer & Staff Platform Engineer. I work where distributed systems, real time data, and performance engineering meet. I turn difficult infrastructure problems into platforms that are fast, resilient, and pleasant to operate.
 
