@@ -87,7 +87,7 @@ I like the feedback loop that open source creates. Ideas are discussed in public
 </p>
 
 <p align="center">
-  <sub>Open to conversations about distributed systems, data infrastructure, query engines, and performance engineering.</sub>
+  <sub>Open for conversations about distributed systems, data infrastructure, query engines, and performance engineering.</sub>
 </p>
 
 <p align="center">
