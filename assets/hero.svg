@@ -1,111 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Rohan Dubey, Staff Data Engineer &amp; Staff Platform Engineer</title>
-  <desc id="desc">A dark systems-console banner showing Rohan's focus on distributed systems, real-time data, and high-performance engines.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Rohan Dubey — Staff Data Engineer &amp; Staff Platform Engineer</title>
+  <desc id="desc">An ivory and muted gold engineering masthead on charcoal. Data platforms. Distributed systems. Built with intention. Three connected architectural layers represent storage, compute, and streaming.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070B14"/>
-      <stop offset="0.56" stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#10172A"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#22D3EE"/>
-      <stop offset="0.52" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#F472B6"/>
-    </linearGradient>
-    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#334155" stroke-opacity="0.18" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="frame"><rect x="1" y="1" width="1198" height="418" rx="24"/></clipPath>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#171C20"/><stop offset="1" stop-color="#0D1115"/></linearGradient>
+    <linearGradient id="plane" x2="0.8" y2="1"><stop stop-color="#252B2E"/><stop offset="1" stop-color="#151A1E"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#C5AD80" stop-opacity="0.09"/><stop offset="1" stop-color="#C5AD80" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#909A9D" opacity="0.12"/></pattern>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="1199" height="439" rx="16"/></clipPath>
   </defs>
-
   <g clip-path="url(#frame)">
-    <rect width="1200" height="420" fill="url(#bg)"/>
-    <rect width="1200" height="420" fill="url(#grid)"/>
-    <circle cx="970" cy="196" r="330" fill="url(#orb)"/>
-    <path d="M0 356C238 286 370 437 640 352S1001 298 1200 344V420H0Z" fill="#101A2F" fill-opacity="0.55"/>
-    <path d="M0 356C238 286 370 437 640 352S1001 298 1200 344" fill="none" stroke="url(#accent)" stroke-opacity="0.23"/>
-
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-      <circle cx="62" cy="55" r="5" fill="#22D3EE" filter="url(#glow)"/>
-      <text x="78" y="61" fill="#64748B" font-size="17" letter-spacing="2">SYSTEMS / DATA / PERFORMANCE</text>
-
-      <text x="58" y="146" fill="#F8FAFC" font-size="64" font-weight="750" letter-spacing="2">ROHAN DUBEY</text>
-      <rect x="59" y="171" width="270" height="6" rx="3" fill="url(#accent)"/>
-      <text x="58" y="225" fill="#CBD5E1" font-size="17" letter-spacing="2">STAFF DATA ENGINEER &amp; STAFF PLATFORM ENGINEER</text>
-
-      <text x="58" y="280" fill="#94A3B8" font-size="22">I turn distributed chaos into</text>
-      <text x="58" y="314" fill="#E2E8F0" font-size="22" font-weight="700">systems that scale.</text>
-
-      <g font-size="13" letter-spacing="1.4">
-        <rect x="58" y="351" width="195" height="34" rx="17" fill="#0F2530" stroke="#155E75"/>
-        <text x="77" y="373" fill="#67E8F9">REAL TIME DATA</text>
-        <rect x="266" y="351" width="218" height="34" rx="17" fill="#171B36" stroke="#3730A3"/>
-        <text x="285" y="373" fill="#A5B4FC">QUERY ENGINES</text>
-        <rect x="497" y="351" width="232" height="34" rx="17" fill="#29152A" stroke="#9D174D"/>
-        <text x="516" y="373" fill="#F9A8D4">DISTRIBUTED SYSTEMS</text>
-      </g>
+    <rect width="1200" height="440" fill="url(#background)"/>
+    <rect x="762" width="438" height="440" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="225" rx="320" ry="300" fill="url(#light)"/>
+    <path d="M56 69H1144" stroke="#333A3E"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="56" y="43" fill="#D0BA91" font-size="14" font-weight="600" letter-spacing="3">RD / ENGINEERING</text>
+      <text x="1144" y="43" fill="#8C969B" font-size="12" letter-spacing="2" text-anchor="end">DATA · SYSTEMS · CRAFT</text>
+      <text x="52" y="168" fill="#F2F0E9" font-size="76" font-weight="600" letter-spacing="-3">Rohan Dubey</text>
+      <text x="56" y="208" fill="#B5BEC1" font-size="18">Staff Data Engineer &amp; Staff Platform Engineer</text>
+      <text x="56" y="274" fill="#E1E1DA" font-size="27" letter-spacing="-0.5">Data platforms. Distributed systems.</text>
+      <text x="56" y="313" fill="#D0BA91" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic">Built with intention.</text>
+      <path d="M56 361H708" stroke="#333A3E"/>
+      <text x="56" y="395" fill="#9CA7AC" font-size="12" letter-spacing="2">REAL-TIME DATA</text>
+      <circle cx="232" cy="391" r="2" fill="#7C6D52"/>
+      <text x="253" y="395" fill="#9CA7AC" font-size="12" letter-spacing="2">QUERY ENGINES</text>
+      <circle cx="423" cy="391" r="2" fill="#7C6D52"/>
+      <text x="444" y="395" fill="#9CA7AC" font-size="12" letter-spacing="2">PLATFORM ENGINEERING</text>
     </g>
-
-    <g fill="none" stroke="#334155" stroke-width="2">
-      <path d="M785 103L920 90L1048 161L1103 282L965 327L818 273L785 103Z"/>
-      <path d="M785 103L965 327M920 90L818 273M1048 161L818 273M1048 161L965 327"/>
+    <path d="M765 103V337" stroke="#333A3E"/>
+    <g stroke-linejoin="round">
+      <g fill="none" stroke="#69716D" stroke-dasharray="3 6" opacity="0.55"><path d="M842 179V295M988 123V239M1134 179V295M988 235V351"/></g>
+      <path d="M842 295L988 239L1134 295L988 351Z" fill="url(#plane)" stroke="#62645B"/>
+      <path d="M842 295V306L988 362L1134 306V295M988 351V362" fill="none" stroke="#494F4E"/>
+      <path d="M842 237L988 181L1134 237L988 293Z" fill="url(#plane)" stroke="#92836A"/>
+      <path d="M842 237V248L988 304L1134 248V237M988 293V304" fill="none" stroke="#625D50"/>
+      <path d="M842 179L988 123L1134 179L988 235Z" fill="url(#plane)" stroke="#D0BA91"/>
+      <path d="M842 179V190L988 246L1134 190V179M988 235V246" fill="none" stroke="#92836A"/>
+      <g fill="none" stroke="#D0BA91" opacity="0.3"><path d="M878 165L1025 221M915 151L1061 207M951 137L1098 193M878 193L1025 137M915 207L1061 151M951 221L1098 165"/></g>
+      <path d="M988 159L1040 179L988 199L936 179Z" fill="#CDB78F" fill-opacity="0.12" stroke="#D0BA91"/>
+      <circle cx="988" cy="179" r="4" fill="#E6D5B5"/>
     </g>
-    <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 13" opacity="0.82">
-      <path d="M785 103L920 90L1048 161L1103 282L965 327L818 273L785 103Z">
-        <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="5s" repeatCount="indefinite"/>
-      </path>
-      <path d="M785 103L965 327M920 90L818 273M1048 161L818 273M1048 161L965 327">
-        <animate attributeName="stroke-dashoffset" from="0" to="72" dur="7s" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" text-anchor="middle">
-      <g transform="translate(785 103)">
-        <circle r="30" fill="#0B1725" stroke="#22D3EE" stroke-width="2"/>
-        <circle r="5" fill="#22D3EE" filter="url(#glow)"/>
-        <text y="47" fill="#67E8F9">INGEST</text>
-      </g>
-      <g transform="translate(920 90)">
-        <circle r="24" fill="#11152B" stroke="#818CF8" stroke-width="2"/>
-        <circle r="4" fill="#818CF8" filter="url(#glow)"/>
-        <text y="42" fill="#A5B4FC">STREAM</text>
-      </g>
-      <g transform="translate(1048 161)">
-        <circle r="34" fill="#1B1326" stroke="#C084FC" stroke-width="2"/>
-        <circle r="6" fill="#C084FC" filter="url(#glow)"/>
-        <text y="53" fill="#D8B4FE">COMPUTE</text>
-      </g>
-      <g transform="translate(1103 282)">
-        <circle r="27" fill="#251425" stroke="#F472B6" stroke-width="2"/>
-        <circle r="5" fill="#F472B6" filter="url(#glow)"/>
-        <text y="45" fill="#F9A8D4">SERVE</text>
-      </g>
-      <g transform="translate(965 327)">
-        <circle r="31" fill="#16152A" stroke="#A78BFA" stroke-width="2"/>
-        <circle r="5" fill="#A78BFA" filter="url(#glow)"/>
-        <text y="50" fill="#C4B5FD">OBSERVE</text>
-      </g>
-      <g transform="translate(818 273)">
-        <circle r="36" fill="#0B1E27" stroke="#2DD4BF" stroke-width="2"/>
-        <circle r="6" fill="#2DD4BF" filter="url(#glow)"/>
-        <text y="55" fill="#5EEAD4">STATE</text>
-      </g>
-    </g>
-
-    <circle r="4" fill="#F8FAFC" filter="url(#glow)">
-      <animateMotion dur="3.2s" repeatCount="indefinite" path="M785 103L920 90L1048 161L1103 282"/>
-    </circle>
-    <circle r="3" fill="#22D3EE" filter="url(#glow)">
-      <animateMotion dur="4.5s" repeatCount="indefinite" path="M818 273L965 327L1048 161"/>
-    </circle>
+    <text x="988" y="399" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2" fill="#9CA49F">INGEST / COMPUTE / SERVE</text>
   </g>
-  <rect x="1" y="1" width="1198" height="418" rx="24" fill="none" stroke="#263449" stroke-width="2"/>
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="16" fill="none" stroke="#363D40"/>
 </svg>

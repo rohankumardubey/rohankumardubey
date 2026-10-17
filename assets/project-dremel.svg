@@ -1,15 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
-  <title id="title">Dremel</title><desc id="desc">Two columnar SQL engines in Rust and C++.</desc>
-  <defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
-  <rect x="1" y="1" width="558" height="188" rx="18" fill="#0B1220" stroke="#263449" stroke-width="2"/>
-  <rect x="1" y="1" width="7" height="188" rx="4" fill="url(#edge)"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="32" y="47" fill="#F8FAFC" font-size="25" font-weight="700">Dremel</text>
-    <rect x="424" y="24" width="102" height="30" rx="15" fill="#201B31" stroke="#6D4FC2"/>
-    <text x="475" y="44" fill="#C4B5FD" font-size="12" text-anchor="middle">RUST + C++</text>
-    <text x="32" y="91" fill="#CBD5E1" font-size="16">Two small columnar SQL engines, built to</text>
-    <text x="32" y="116" fill="#CBD5E1" font-size="16">answer the same queries over the same bytes.</text>
-    <text x="32" y="160" fill="#67E8F9" font-size="12" letter-spacing="1.5">COLUMNAR EXECUTION  /  ENGINE COMPARISON</text>
-    <text x="524" y="160" fill="#64748B" font-size="18" text-anchor="end">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-labelledby="title desc">
+  <title id="title">Dremel</title>
+  <desc id="desc">Columnar SQL engines in Rust and C++, exploring execution over the same workloads.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#1B2125"/><stop offset="1" stop-color="#13181C"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="559" height="249" rx="12" fill="url(#panel)" stroke="#3A4143"/>
+  <path d="M30 1H94" stroke="#D0BA91" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="30" y="36" fill="#D0BA91" font-size="12" letter-spacing="1.5">01</text>
+    <text x="65" y="36" fill="#A6AFB2" font-size="11" letter-spacing="1.8">QUERY EXECUTION</text>
+    <text x="28" y="96" fill="#F2F0E9" font-size="36" font-weight="600" letter-spacing="-1">Dremel</text>
+    <text x="30" y="138" fill="#B5BEC1" font-size="18">Two columnar SQL engines. One workload.</text>
+    <text x="30" y="165" fill="#B5BEC1" font-size="18">Exploring execution in Rust and C++.</text>
+    <path d="M30 195H530" stroke="#333A3E"/>
+    <text x="30" y="226" fill="#D0BA91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">RUST + C++</text>
+    <text x="530" y="226" text-anchor="end" fill="#9CA7AC" font-size="12">Explore repository</text>
+  </g>
+  <g fill="none" stroke="#D0BA91" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="510" cy="78" r="20" stroke="#474B45"/>
+    <path d="M504 84L516 72M505 72H516V83"/>
   </g>
 </svg>
