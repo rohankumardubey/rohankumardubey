@@ -46,7 +46,7 @@ Four projects exploring how data moves, how engines execute, and where performan
 
 ## Tools of the trade
 
-**Languages** &nbsp; Rust · Go · Java · Python · Scala · C++
+**Languages** &nbsp; Python · Java · Go · Rust · Scala · C++ · Bash · SQL · PHP
 
 **Data systems** &nbsp; Kafka · Flink · Spark · Arrow · DataFusion · Iceberg · ClickHouse · Trino · DuckDB
 
